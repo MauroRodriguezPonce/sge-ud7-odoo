@@ -10,8 +10,8 @@
 | Sector | Alimentación y hostelería: tostado y venta de café de especialidad |
 | Dirección | Calle del Tostador, 12, 28012 Madrid, España |
 | Teléfono | +34 910 000 123 |
-| Correo | hola@brewlab-roasters.example |
-| Web | www.brewlab-roasters.example |
+| Correo | brewlab@brewlab-roasters.es |
+| Web | http://www.brewlab-roasters.es |
 
 ## Actividad
 
