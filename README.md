@@ -1,7 +1,7 @@
 # UD7 · Odoo de principio a fin
 
 **Alumno:** Mauro Rodríguez Ponce
-**Empresa:** Brewlab Café Roasters S.L.
+**Empresa:** Brewlab Café Roasters S.L
 
 ## Vídeo
 
